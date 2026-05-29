@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nexomesnin
+- 👋 Hi, I’m @theadmin
 - 👀 I’m interested in ...learning about my interests such as cs and chess. 
 - 🌱 I’m currently learning ...python and also linux even tho i have to stick with windows 11 right now
 - 💞️ I’m looking to collaborate on ...not sure to be honest
-- 📫 How to reach me ... through my email adress oemer.celebi.business@gmail.com
+- 📫 How to reach me ... through my email adress 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... all of this is a hobby that i enjoy
 
